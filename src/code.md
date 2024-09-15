@@ -1,4 +1,4 @@
-```cpp
+```c
 #include<iostream>
 #include<cstdlib>
 #include <ctime>
@@ -1108,4 +1108,3 @@ defendCount=0;
     }
     return 0;
 }
-```
